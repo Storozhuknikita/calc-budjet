@@ -1,26 +1,40 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, {Component} from 'react';
 import './App.css';
+import moment from 'moment';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+import CalendarInput from 'arui-feather/calendar-input';
+
+class App extends Component {
+
+  constructor(props){
+    super(props);
+
+    this.state = {
+      date: moment()
+    }
+  }
+
+
+
+  render() {
+    const {date} = this.state;
+    return (
+        <div className="App">
+
+          <h1>Реактивный бюджет</h1>
+
+          <p>
+            {this.state.date.format('DD-MM-YYYY')}
+            <CalendarInput
+              value={ date.format('DD-MM-YYYY')}
+            />
+          </p>
+
+        </div>
+    );
+  }
+
 }
+
 
 export default App;
