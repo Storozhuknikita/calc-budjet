@@ -2,6 +2,23 @@
   text-align: center;
 }
 
+
+.row {
+  max-width: 768px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+.input__top {
+  text-align: left;
+}
+
+.col {
+  display: inline-block;
+  padding: 0 16px;
+}
+
+
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 40vmin;
