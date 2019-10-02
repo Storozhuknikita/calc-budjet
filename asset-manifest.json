@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/calc-budjet/static/css/main.896039b3.chunk.css",
+    "main.js": "/calc-budjet/static/js/main.b0fae67c.chunk.js",
+    "main.js.map": "/calc-budjet/static/js/main.b0fae67c.chunk.js.map",
+    "runtime~main.js": "/calc-budjet/static/js/runtime~main.fae32796.js",
+    "runtime~main.js.map": "/calc-budjet/static/js/runtime~main.fae32796.js.map",
+    "static/css/2.ba044ecb.chunk.css": "/calc-budjet/static/css/2.ba044ecb.chunk.css",
+    "static/js/2.32cd3143.chunk.js": "/calc-budjet/static/js/2.32cd3143.chunk.js",
+    "static/js/2.32cd3143.chunk.js.map": "/calc-budjet/static/js/2.32cd3143.chunk.js.map",
+    "index.html": "/calc-budjet/index.html",
+    "precache-manifest.69784b87b3f11177648d319099a3ad55.js": "/calc-budjet/precache-manifest.69784b87b3f11177648d319099a3ad55.js",
+    "service-worker.js": "/calc-budjet/service-worker.js",
+    "static/css/2.ba044ecb.chunk.css.map": "/calc-budjet/static/css/2.ba044ecb.chunk.css.map",
+    "static/css/main.896039b3.chunk.css.map": "/calc-budjet/static/css/main.896039b3.chunk.css.map",
+    "static/media/calendar_theme_alfa-on-color.css": "/calc-budjet/static/media/arrow_cr.cdc839b0.svg",
+    "static/media/calendar_theme_alfa-on-white.css": "/calc-budjet/static/media/arrow_wr.11557a98.svg",
+    "static/media/index.css": "/calc-budjet/static/media/font_roboto-rouble_regular.62900ae1.woff",
+    "static/media/buy.css": "/calc-budjet/static/media/icon_buy_m_white.b68639ca.svg",
+    "static/media/calendar.css": "/calc-budjet/static/media/icon_calendar_xl_white.ad80ef26.svg",
+    "static/media/close.css": "/calc-budjet/static/media/icon_close_xs_white.bca604a9.svg",
+    "static/media/currency-rub.css": "/calc-budjet/static/media/icon_currency-rub_xl_white.be7a1b71.svg",
+    "static/media/sell.css": "/calc-budjet/static/media/icon_sell_m_white.107caf5d.svg"
+  }
+}
